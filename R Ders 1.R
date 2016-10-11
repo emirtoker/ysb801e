@@ -39,3 +39,6 @@ range(x)
 
 seq(-5, 5, by = 0.2)
 seq(length = 51, from = -5, by = 0.2)
+
+rep(x, times = 5)
+rep(x, each = 5)
